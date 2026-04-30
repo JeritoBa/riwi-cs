@@ -1,0 +1,14 @@
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/bin/Debug/net10.0/Mentoria1
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/bin/Debug/net10.0/Mentoria1.deps.json
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/bin/Debug/net10.0/Mentoria1.runtimeconfig.json
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/bin/Debug/net10.0/Mentoria1.dll
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/bin/Debug/net10.0/Mentoria1.pdb
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/obj/Debug/net10.0/Mentoria1.GeneratedMSBuildEditorConfig.editorconfig
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/obj/Debug/net10.0/Mentoria1.AssemblyInfoInputs.cache
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/obj/Debug/net10.0/Mentoria1.AssemblyInfo.cs
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/obj/Debug/net10.0/Mentoria1.csproj.CoreCompileInputs.cache
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/obj/Debug/net10.0/Mentoria1.dll
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/obj/Debug/net10.0/refint/Mentoria1.dll
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/obj/Debug/net10.0/Mentoria1.pdb
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/obj/Debug/net10.0/Mentoria1.genruntimeconfig.cache
+/home/cohorte5/Escritorio/jerogallego/c#/Mentoria1/obj/Debug/net10.0/ref/Mentoria1.dll
